@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ratie's GitHub stats](https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=prs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://my-github-readme-stats-tau.vercel.app/api/top-langs/?username=g-Ratie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=contribs,prs&count_private=true
+  <img align="left" src="https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=contribs,prs&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://my-github-readme-stats-tau.vercel.app/api/top-langs/?username=g-Ratie&layout=compact" />
+</a>
