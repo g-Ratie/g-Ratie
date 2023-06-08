@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=contribs,prs&count_private=true
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=contribs,prs&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
