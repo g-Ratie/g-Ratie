@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://my-github-readme-stats-tau.vercel.app/api?username=g-Ratie&hide=contribs,prs&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://my-github-readme-stats-tau.vercel.app/api/top-langs/?username=g-Ratie&layout=compact" />
-</a>
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-Ratie&theme=github_dark)
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g-Ratie&theme=github_dark)
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=g-Ratie&theme=github_dark)
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/stats?username=g-Ratie&theme=github_dark)
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-Ratie&theme=github_dark&utcOffset=9)
